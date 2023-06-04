@@ -13,7 +13,7 @@ You can find me on
 <a href="https://www.youtube.com/channel/UClo1ePvAIPcpUTLKwMgalBA"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
 ## Demos
-Feel free to have a look on the pinned repositories below.
+Feel free to check the pinned repositories below.
 
 ## Releases
 These are the apps that are currently released in the stores.
