@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/><img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" /><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 
-I am a XR developer, currently working with Unity Engine to develop XR experiences on iOS, Android, and Quest 2. However, I am in the learning process of powerful tools as Unreal Engine. I have also developed some mobile applications using Flutter for Android, and iOS devices.
+I am a Unity XR developer. Currently developing XR experiences on iOS, Android, and Quest 2. However, I am in the learning process of powerful tools as Unreal Engine. I have also developed some mobile applications using Flutter for Android, and iOS devices.
 
 ## Socials
 You can find me on
