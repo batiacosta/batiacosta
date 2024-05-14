@@ -14,7 +14,8 @@ You can find me on
 
 ## Demos
 Feel free to check the pinned repositories below.
-Also, you can check few videos of developed projects here: <a href="https://davidyliliana.com/Portfolio/Portfolio.pdf">https://davidyliliana.com/Portfolio/Portfolio.pdf</a>
+Also, you can check few videos of developed projects here: [Portfolio.pdf](https://github.com/batiacosta/batiacosta/files/15306328/Portfolio.pdf)
+
 
 ## Releases
 These are the apps that are currently released in the stores.
