@@ -4,7 +4,8 @@
 
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/><img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" /><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 
-I am a Unity XR developer. Currently developing XR experiences on iOS, Android, and Quest 2. However, I am in the learning process of powerful tools as Unreal Engine. I have also developed some mobile applications using Flutter for Android, and iOS devices.
+Hello, I’m David, an XR Unity developer with 6 years of experience in creating interactive experiences and games. My primary tool is the Unity Engine, which I’ve used to develop apps, games, and interactive experiences for platforms such as Android, iOS, Meta Quest 2, and HoloLens 1.
+While my main focus is on Unity Engine/C#, I also integrate Swift and Java to develop native libraries for accessing device features. Additionally, I’m exploring Unreal Engine with Blueprints and C++ to broaden my skill set.
 
 ## Socials
 You can find me on
