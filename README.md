@@ -12,7 +12,7 @@ You can find me on
 <a href="https://www.linkedin.com/in/david-acosta-laverde/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UClo1ePvAIPcpUTLKwMgalBA"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
-## Demos
+## Portfolio
 Feel free to check the pinned repositories below.
 Also, you can check few videos of developed projects here: [Portfolio.pdf](https://github.com/batiacosta/batiacosta/files/15306328/Portfolio.pdf)
 
