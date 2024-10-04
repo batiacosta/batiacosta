@@ -1,6 +1,5 @@
 # Hi there, I'm David from Colombia
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batiacosta&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batiacosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/><img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" /><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 
