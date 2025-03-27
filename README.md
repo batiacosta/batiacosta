@@ -14,7 +14,7 @@ You can find me on
 
 ## Portfolio
 Feel free to check the pinned repositories below.
-Also, you can check few videos of developed projects here: [Portfolio.pdf](https://github.com/batiacosta/batiacosta/files/15306328/Portfolio.pdf)
+Also, you can check few videos of developed projects here: [Portfolio](https://batiacosta.github.io))
 
 
 ## Releases
