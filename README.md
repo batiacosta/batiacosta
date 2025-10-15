@@ -6,15 +6,17 @@
 Hello, I’m David, an XR Unity developer with 6 years of experience in creating interactive experiences and games. My primary tool is the Unity Engine, which I’ve used to develop apps, games, and interactive experiences for platforms such as Android, iOS, Meta Quest 2, and HoloLens 1.
 While my main focus is on Unity Engine/C#, I also integrate Swift and Java to develop native libraries for accessing device features. Additionally, I’m exploring Unreal Engine with Blueprints and C++ to broaden my skill set.
 
+## Portfolio
+Check out my portfolio here ->  [https://batiacosta.github.io](https://batiacosta.github.io)
+
+And have a look on my pinned repositories.
+
 ## Socials
 You can find me on
 
 <a href="https://www.linkedin.com/in/david-acosta-laverde/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UClo1ePvAIPcpUTLKwMgalBA"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
-## Portfolio
-Feel free to check the pinned repositories below.
-Also, you can check few videos of developed projects here: [Portfolio](https://batiacosta.github.io))
 
 
 ## Releases
