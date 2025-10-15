@@ -11,14 +11,6 @@ Check out my portfolio here ->  [https://batiacosta.github.io](https://batiacost
 
 And have a look on my pinned repositories.
 
-## Socials
-You can find me on
-
-<a href="https://www.linkedin.com/in/david-acosta-laverde/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UClo1ePvAIPcpUTLKwMgalBA"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-
-
-
 ## Releases
 These are the apps that are currently released in the stores.
 
