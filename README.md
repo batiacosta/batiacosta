@@ -3,8 +3,24 @@
 
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/><img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" /><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 
-Hello, I’m David, an XR Unity developer with 6 years of experience in creating interactive experiences and games. My primary tool is the Unity Engine, which I’ve used to develop apps, games, and interactive experiences for platforms such as Android, iOS, Meta Quest 2, and HoloLens 1.
-While my main focus is on Unity Engine/C#, I also integrate Swift and Java to develop native libraries for accessing device features. Additionally, I’m exploring Unreal Engine with Blueprints and C++ to broaden my skill set.
+Software Developer with 7 years of experience in designing and delivering innovative mobile applications, interactive experiences, and games for AR, VR, and MR platforms, including Android, iOS, Meta Quest 2, and HoloLens. Proficient in Unity Engine (C#), Unreal Engine (C++, Blueprints), and Swift-based iOS development with ARKit, RealityKit, SwiftUI, and UIKit. Skilled in cross-platform development and integrating native libraries in Swift for iOS and Java for Android, with a growing interest in C and Swift interoperability. Currently pursuing a Master’s in Applied Computing at The University of Oklahoma to advance expertise in software engineering and native integrations. Fluent in Spanish and English (C1 IELTS 2022). Eager to contribute technical expertise and creative problem-solving to a dynamic team building innovative mobile and XR solutions and games.
+
+•	Programming Languages: C#, Swift, C++, Dart, Java, JavaScript, TypeScript.
+
+•	Game Engines: Unity (C#), Unreal Engine (C++, Blueprints) 
+
+•	XR Development: AR Foundation, ARCore, ARKit, XR Toolkit, OpenXR 
+
+•	Platforms: Android, iOS, Meta Quest 2, HoloLens 
+
+•	Development Tools: Android Studio, Xcode, GitHub, Bitbucket, GitLab, Asana, Jira, Trello, Rider 
+
+•	Technologies & Frameworks: SwiftUI, UIKit, WebGL, ReactJS, BabylonJS, Flutter, UI Toolkit 
+
+•	Methodologies: Agile (Scrum, Kanban, Scrumban) 
+
+•	Languages: Spanish (Native), English (Bilingual, C1 IELTS 2022)
+
 
 ## Portfolio
 Check out my portfolio here ->  [https://batiacosta.github.io](https://batiacosta.github.io)
