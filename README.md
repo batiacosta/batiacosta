@@ -7,15 +7,11 @@ Software Developer with 7 years of experience in designing and delivering innova
 
 •	Programming Languages: C#, Swift, C++, Dart, Java, JavaScript, TypeScript.
 
-•	Game Engines: Unity (C#), Unreal Engine (C++, Blueprints) 
+•	Development Tools: Unity (C#), Unreal Engine (C++, Blueprints), Android Studio, Xcode, GitHub, Bitbucket, GitLab, Asana, Jira, Trello, Rider 
 
-•	XR Development: AR Foundation, ARCore, ARKit, XR Toolkit, OpenXR 
+•	Technologies & Frameworks: AR Foundation, ARCore, ARKit, XR Toolkit, OpenXR, SwiftUI, UIKit, WebGL, ReactJS, BabylonJS, Flutter, UI Toolkit 
 
-•	Platforms: Android, iOS, Meta Quest 2, HoloLens 
-
-•	Development Tools: Android Studio, Xcode, GitHub, Bitbucket, GitLab, Asana, Jira, Trello, Rider 
-
-•	Technologies & Frameworks: SwiftUI, UIKit, WebGL, ReactJS, BabylonJS, Flutter, UI Toolkit 
+•	Platforms: Android, iOS, Meta Quest 2, HoloLens, WebGL, Windows, MacOS 
 
 •	Methodologies: Agile (Scrum, Kanban, Scrumban) 
 
