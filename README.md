@@ -3,8 +3,6 @@
 
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/><img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" /><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 
-Software Developer with 7 years of experience in designing and delivering innovative mobile applications, interactive experiences, and games for AR, VR, and MR platforms, including Android, iOS, Meta Quest 2, and HoloLens. Proficient in Unity Engine (C#), Unreal Engine (C++, Blueprints), and Swift-based iOS development with ARKit, RealityKit, SwiftUI, and UIKit. Skilled in cross-platform development and integrating native libraries in Swift for iOS and Java for Android, with a growing interest in C and Swift interoperability. Currently pursuing a Master’s in Applied Computing at The University of Oklahoma to advance expertise in software engineering and native integrations. Fluent in Spanish and English (C1 IELTS 2022). Eager to contribute technical expertise and creative problem-solving to a dynamic team building innovative mobile and XR solutions and games.
-
 •	Programming Languages: C#, Swift, C++, Dart, Java, JavaScript, TypeScript.
 
 •	Development Tools: Unity (C#), Unreal Engine (C++, Blueprints), Android Studio, Xcode, GitHub, Bitbucket, GitLab, Asana, Jira, Trello, Rider 
